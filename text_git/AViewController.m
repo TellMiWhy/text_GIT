@@ -28,6 +28,7 @@
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     NSLog(@"I do again");
     NSLog(@"change again");
+    NSLog(@"bufuqi");
 }
 
 
